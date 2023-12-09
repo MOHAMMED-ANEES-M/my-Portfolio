@@ -4,11 +4,13 @@
     box-sizing: border-box;
     text-decoration: none;
     background: transparent;
-
 }
 
 body{
-    
     overflow: hidden;
     overflow-y: scroll;
+}
+
+.maindiv{
+    width: 100%;
 }
